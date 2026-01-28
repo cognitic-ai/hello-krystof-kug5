@@ -41,14 +41,7 @@ export default function IndexRoute() {
         No Xcode or Android Studio needed, breezy.
 
         Community strong, documentation clear,
-        Snack lets you code without fear.
-        From solo devs to teams so wide,
-        Expo's the framework with nothing to hide.
-
-        TypeScript support and modern tools,
-        Breaking old native development rules.
-        The future of mobile is here today,
-        With Expo leading the brilliant way.
+        The future of mobile development is here.
       </Text>
     </ScrollView>
   );
